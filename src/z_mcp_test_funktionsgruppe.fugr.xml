@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>Funktionsgruppe zum Selbstzweck</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZ_MCP_TEST_FUNKTIONSGRUPPETOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZ_MCP_TEST_FUNKTIONSGRUPPE</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>Z_MCP_TEST_FM</FUNCNAME>
+     <SHORT_TEXT>github.com/Hochfrequenz/Z_MCP_TEST_EDITABLE_WB_OBJECTS</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
