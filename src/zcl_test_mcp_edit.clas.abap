@@ -15,6 +15,8 @@ CLASS ZCL_TEST_MCP_EDIT IMPLEMENTATION.
 
 
  METHOD do_something.
+
+
     WRITE 'hello'.
   ENDMETHOD.
 ENDCLASS.
